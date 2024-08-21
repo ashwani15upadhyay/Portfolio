@@ -9,13 +9,14 @@ function About() {
             <div className="col-md-10 mx-auto">
               <h2>About</h2>
               <p>
-                Hello, I'm Ashwani Upadhyay from Mathura. I hold a Bachelor's degree in Technology (B.Tech) 
-                and am passionate about [IT industry]. 
-                With a strong foundation in [Core Java, JavaScript, Node Express, SQL], I am eager to apply my knowledge 
-                and contribute effectively to  
+              Hello, I'm Ashwani Upadhyay from Mathura. I hold a Bachelor's
+                degree in Computer Science (B.Tech) and I am passionate about technology 
+                solutions and software development. With a strong foundation in (Core Java, Kotlin,
+                Android SDK, RoomdataBase, SQLite, Firebase, SQL), I am eager to
+                apply my knowledge and contribute effectively to
                 {/* [mention your goals or the field you want to work in].  */}
-                I am a dedicated and enthusiastic individual, always open to learning and embracing new challenges. 
-                Looking forward to 
+                am a dedicated and enthusiastic individual, always open to
+                learning and embracing new challenges. 
                 {/* [mention what you are looking forward to, whether it's career opportunities, 
                 further education, etc.]. */}
               </p>
@@ -31,12 +32,16 @@ function About() {
               />
             </div>
             <div className="col-lg-8 pt-4 pt-lg-0 content">
-              <h3> Backend Developer.</h3>
+              <h3> Android Developer.</h3>
               <p class="fst-italic">
-              Hi, I'm Ashwani Upadhyay, a backend developer with expertise in Core Java, JavaScript and Node.js. 
-              I hold a B.Tech degree and have a proven track record in designing and implementing scalable server-side architectures. 
-              Passionate about optimizing performance and ensuring data security, I thrive on delivering high-quality backend solutions. 
-              Excited about contributing to innovative projects and staying abreast of the latest technologies.
+              Hi, I'm Ashwani Upadhyay, an Android developer with expertise in
+                Core Java, Kotlin, and the Android SDK. I hold a B.Tech degree
+                and have a proven track record in designing and developing
+                robust, user-centric Android applications. Passionate about
+                optimizing app performance and ensuring seamless user
+                experiences, I thrive on delivering high-quality mobile
+                solutions. Excited about contributing to innovative projects and
+                staying at the forefront of mobile technology advancements.
               </p>
 
               <div className="row">
@@ -53,7 +58,7 @@ function About() {
                     </li>
                     <li>
                       <i className="bi bi-chevron-right"></i>{" "}
-                      <strong>City:</strong> <span>Khair , Aligarh</span>
+                      <strong>City:</strong> <span>Noida , Uttar Pradesh</span>
                     </li>
                   </ul>
                 </div>
@@ -61,7 +66,7 @@ function About() {
                   <ul>
                     <li>
                       <i className="bi bi-chevron-right"></i>{" "}
-                      <strong>Age:</strong> <span>20</span>
+                      <strong>Age:</strong> <span>22</span>
                     </li>
                     <li>
                       <i className="bi bi-chevron-right"></i>{" "}
@@ -74,19 +79,19 @@ function About() {
                     </li>
                     <li>
                       <i class="bi bi-chevron-right"></i>{" "}
-                      <strong>Freelance:</strong> <span>Available</span>
+                      <strong>Freelancing:</strong> <span>Available</span>
                     </li>
                   </ul>
                 </div>
               </div>
               <p>
-                Officiis eligendi itaque labore et dolorum mollitia officiis
+                {/* Officiis eligendi itaque labore et dolorum mollitia officiis
                 optio vero. Quisquam sunt adipisci omnis et ut. Nulla
                 accusantium dolor incidunt officia tempore. Et eius omnis.
                 Cupiditate ut dicta maxime officiis quidem quia. Sed et
                 consectetur qui quia repellendus itaque neque. Aliquid amet
                 quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis
-                culpa magni laudantium dolores.
+                culpa magni laudantium dolores. */}
               </p>
             </div>
           </div>
@@ -98,14 +103,20 @@ function About() {
           <div className="section-title">
             <h2>Facts</h2>
             <p>
-  Throughout my career, I've actively contributed to significant projects, 
-  such as Weather Forecasting, Bill Generator App. My skills extend to React.js, HTML, CSS, 
-  and I am always eager to stay updated on the latest technologies and industry best practices.
-  Beyond my professional life, I find joy in IT Industry, 
-  allowing me to strike a balance between work and personal pursuits. 
+            Throughout my career, I've actively contributed to significant
+              Android projects, such as a Weather Forecasting app and a Bill
+              Generator app. My expertise extends to Core Java, Kotlin, and the
+              Android SDK, and I'm always eager to stay updated on the latest
+              mobile technologies and industry best practices. Beyond my
+              professional life, I have a deep passion for the IT industry,
+              which allows me to maintain a balance between work and personal
+              pursuits. I approach challenges with enthusiasm and a
+              solutions-oriented mindset, constantly striving to deliver
+              top-notch mobile experiences.
   {/* Known for my [mention a positive trait, e.g., attention to detail] and commitment to 
   [mention another positive trait, e.g., continuous learning],  */}
-  I approach challenges with enthusiasm and a solutions-oriented mindset.
+  I approach challenges with enthusiasm and a solutions-oriented
+  mindset.
             </p>
           </div>
 
@@ -123,7 +134,7 @@ function About() {
                   className="purecounter"
                 ></span>
                 <p>
-                  <strong>Happy Clients</strong> consequuntur quae
+                  {/* <strong>Happy Clients</strong> consequuntur quae */}
                 </p>
               </div>
             </div>
@@ -198,26 +209,30 @@ function About() {
             <p>
               <div>
 
-            Professionally, I possess a solid foundation in Core Java, 
-            having honed my skills through practical applications and projects. 
-            This includes a deep understanding of object-oriented programming principles and 
-            proficiency in utilizing Java for various backend functionalities.
-        
+              Professionally, I possess a solid foundation in Core Java and
+                Kotlin, having honed my skills through practical applications
+                and projects. This includes a deep understanding of
+                object-oriented programming principles and proficiency in
+                utilizing Java and Kotlin for various Android development tasks.
+                My expertise extends to the Android SDK, where I have
+                demonstrated proficiency in building scalable and efficient
+                mobile applications.
+<br/>
+<br/>
+                Through hands-on experience, I have
+                successfully implemented RESTful APIs, showcasing my ability to
+                integrate robust backend services with mobile applications. I am
+                adept at crafting responsive and visually appealing user
+                interfaces using Android’s UI components, ensuring a seamless
+                and user-friendly experience. 
+                <br/>
+<br/>
 
-           Additionally, my expertise extends to JavaScript, 
-           where I have demonstrated a proficiency in both client and server-side scripting. 
-           I am well-versed in leveraging Node.js and Express to build scalable and efficient server-side 
-           applications. Through hands-on experience, I have successfully implemented RESTful APIs, 
-           showcasing my ability to design and develop robust backend solutions.
-
-          On the frontend, I am adept at crafting responsive and visually appealing user interfaces using HTML and CSS. 
-          This includes a keen eye for design principles and an understanding of how to create seamless, user-friendly 
-          experiences.
-
-         In summary, my skill set encompasses a strong command of Core Java, proficiency in JavaScript, Node.js, and
-          Express for backend development, as well as expertise in building dynamic and engaging frontend
-           interfaces using HTML and CSS. My practical experience in designing and implementing RESTful APIs further
-            adds to my capabilities in creating comprehensive and efficient web solutions.
+                In summary, my skill set encompasses a strong command of Core Java and
+                Kotlin for Android development, proficiency in utilizing the Android SDK, and
+                expertise in building dynamic and engaging mobile applications.
+                My practical experience in integrating RESTful APIs further adds
+                to my capabilities in creating high-quality Android solutions.
             </div>
             </p>
           </div>
@@ -226,7 +241,7 @@ function About() {
             <div className="col-lg-6">
               <div className="progress">
                 <span className="skill">
-                  HTML <i class="val">60%</i>
+                  Kotlin <i class="val">60%</i>
                 </span>
                 <div className="progress-bar-wrap">
                   <div
@@ -244,7 +259,7 @@ function About() {
 
               <div className="progress">
                 <span className="skill">
-                  CSS <i class="val">40%</i>
+                  Flutter <i class="val">40%</i>
                 </span>
                 <div className="progress-bar-wrap">
                   <div

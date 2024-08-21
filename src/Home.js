@@ -11,7 +11,7 @@ function Home() {
     <div className="container">
 
 <div className="section-title"> <h1></h1>
-      <p>Hi, I'm Ashwani, Web Developer <span className="typed" data-typed-items="Developer"></span></p></div>
+      <p>Hey! This side Ashwani Upadhyay, Android Developer<span className="typed" data-typed-items="Developer"></span></p></div>
       
       </div>
 
