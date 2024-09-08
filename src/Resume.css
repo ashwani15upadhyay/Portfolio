@@ -1,3 +1,64 @@
-.text{
+.container {
+    padding-left: 260px; /* Adjust this to the width of your left-side header */
+    padding-right: 20px;
+  }
+  
+  .resume {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .resume h2 {
     text-align: center;
-}
+    margin-bottom: 20px;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  
+  .resume-section {
+    margin-bottom: 30px;
+  }
+  
+  .resume-section h3 {
+    font-size: 22px;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  .resume-section ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .resume-section ul li {
+    margin-bottom: 10px;
+  }
+  
+  .resume-section p {
+    font-size: 16px;
+  }
+  
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Adjusting for responsiveness */
+  @media (max-width: 768px) {
+    .container {
+      padding-left: 20px;
+    }
+  
+    .resume h2 {
+      font-size: 24px;
+    }
+  
+    .resume-section h3 {
+      font-size: 20px;
+    }
+  }
+  
