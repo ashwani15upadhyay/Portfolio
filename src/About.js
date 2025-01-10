@@ -1,4 +1,6 @@
 import React from "react";
+import Resume from './Resume'
+import Contact from './Contact'
 
 function About() {
   return (
@@ -352,6 +354,8 @@ function About() {
           </div>
         </div>
       </section>
+      <Resume />
+      <Contact />
       
     </>
   );

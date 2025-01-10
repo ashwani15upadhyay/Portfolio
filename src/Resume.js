@@ -36,22 +36,23 @@ function Resume() {
                 <ul>
                   <li><strong>B.Tech (2020-2024):</strong> Dronacharya Group of Institute, Bachelor’s in Computer Science and Engineering (SGPA: 7.6)</li>
                   <li><strong>12th (2019-2020):</strong> Gurukul Public School (Percentage: 77%)</li>
-                  <li><strong>10th (2017-2018):</strong> Gurukul Public School (Percentage: 73%)</li>
+                  <li><strong>10th (2017-2018):</strong> Gurukul Public School (Percentage: 76%)</li>
                 </ul>
               </div>
 
               <div className="resume-section">
                 <h3>Experience</h3>
-                <p><strong>Crazibrain Solutions Pvt. Ltd.</strong> - Android Developer (April’24-Present)</p>
+                <p><strong>Crazibrain Solutions Pvt. Ltd.</strong> - Software Developer (April’24 - Present)</p>
               </div>
 
               <div className="resume-section">
                 <h3>Skills</h3>
                 <ul>
-                  <li><strong>Programming Languages:</strong> Java, Kotlin, XML, JavaScript</li>
-                  <li><strong>Technologies:</strong> Android SDK, RESTful APIs, UI/UX design, Git, Firebase, HTML, CSS, Express.js</li>
+                  <li><strong>Programming Languages:</strong> Java, XML, JavaScript</li>
+                  <li><strong>Technologies:</strong> Spring Boot, Hibernate, Microservices, JDBC, Android SDK, RESTful API’s development and integration,
+                    UI/UXdesign, Git version control, HTML, CSS</li>
                   <li><strong>Databases:</strong> SQL, SQLite, RoomDatabase</li>
-                  <li><strong>Tools:</strong> VS Code, Android Studio</li>
+                  <li><strong>Tools:</strong> VS Code, Android Studio, Intellij Idea</li>
                   <li><strong>CS Fundamentals:</strong> Data Structures, Algorithms, Operating Systems, DBMS</li>
                 </ul>
               </div>
